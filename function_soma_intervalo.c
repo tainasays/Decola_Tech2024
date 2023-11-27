@@ -6,7 +6,6 @@ Computacional. A soma de Gauss que foi ensinada em Portugal, adaptada para C.
 
 *******************************************************************************/
 #include <stdio.h>
-
 #include <stdlib.h>
 
 // Protótipo da função
