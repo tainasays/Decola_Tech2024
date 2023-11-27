@@ -7,6 +7,8 @@ Computacional. A soma de Gauss que foi ensinada em Portugal, adaptada para C.
 *******************************************************************************/
 #include <stdio.h>
 
+#include <stdlib.h>
+
 // Protótipo da função
 int soma_do_intervalo(int a, int b);
 
