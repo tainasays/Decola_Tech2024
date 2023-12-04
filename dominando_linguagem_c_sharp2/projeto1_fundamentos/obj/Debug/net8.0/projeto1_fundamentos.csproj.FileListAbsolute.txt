@@ -1,0 +1,15 @@
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\bin\Debug\net8.0\projeto1_fundamentos.exe
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\bin\Debug\net8.0\projeto1_fundamentos.deps.json
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\bin\Debug\net8.0\projeto1_fundamentos.runtimeconfig.json
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\bin\Debug\net8.0\projeto1_fundamentos.dll
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\bin\Debug\net8.0\projeto1_fundamentos.pdb
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\projeto1_fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\projeto1_fundamentos.AssemblyInfoInputs.cache
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\projeto1_fundamentos.AssemblyInfo.cs
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\projeto1_fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\projeto1_fundamentos.sourcelink.json
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\projeto1_fundamentos.dll
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\refint\projeto1_fundamentos.dll
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\projeto1_fundamentos.pdb
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\projeto1_fundamentos.genruntimeconfig.cache
+C:\Users\thayn\Desktop\Decola_Tech2024\dominando_linguagem_c_sharp2\projeto1_fundamentos\obj\Debug\net8.0\ref\projeto1_fundamentos.dll
