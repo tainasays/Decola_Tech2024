@@ -31,7 +31,7 @@ using teste_c_sharp2.Models;
 // calc.Somar(2, 4);
 // calc.Potencia(3, 3);
 // calc.Seno(30);
-// calc.Coseno(30);
+// calc.Cosseno(30);
 // calc.Tangente(30);
 // calc.RaizQuadrada(36);
 

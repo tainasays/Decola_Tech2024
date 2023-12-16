@@ -25,11 +25,11 @@ namespace teste_c_sharp2.Models
             Console.WriteLine($"O seno de {angulo}° = {Math.Round(seno, 4)}");
         }
 
-        public void Coseno(double angulo)
+        public void Cosseno(double angulo)
         {
             double radiano = angulo * Math.PI / 180; // conversão pra radianos;
             double cos = Math.Cos(radiano);
-            Console.WriteLine($"O coseno de {angulo}° = {Math.Round(cos, 4)}");
+            Console.WriteLine($"O cosseno de {angulo}° = {Math.Round(cos, 4)}");
         }
 
         public void Tangente(double angulo)
