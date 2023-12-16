@@ -18,4 +18,4 @@ Repositório criado para inserir os resumos da aula de Versionamento do Bootcamp
 | 3. 2 Desfazendo alterações locais| |
 | 3.3 Trabalhando com Branches | |
 
-📌#### Comandos úteis no dia-a-dia
+#### 📌 Comandos úteis no dia-a-dia
