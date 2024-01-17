@@ -32,7 +32,7 @@ Repositório criado durante o Bootcamp Decola Tech 2024 para fins de estudo da L
     </tr>
     <tr>
       <td>03</td>
-      <td>Implementanto validações de testes unitários com C#</td>
+      <td>Implementando validações de testes unitários com C#</td>
       <td align="center">
         <a href="https://github.com/tainasays/decolaTech4-desafio-projeto3">
            <img align="center" alt="Link do Projeto" src="https://img.shields.io/badge/-Link-ff4e0e">
